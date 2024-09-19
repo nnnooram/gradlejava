@@ -25,6 +25,12 @@ Untuk menjalankan tugas `greetingTask`, gunakan perintah berikut di terminal:
 
 ![Alt Text](PR16.png)
 
+- Dengan parameter tanpa `nama`:
+  ```bash
+  gradlew.bat greetingTask
+
+![Alt_Text](PR16a.png)
+
 ## Tujuan
 
 - Membuat tugas custom di Gradle yang menampilkan pesan ucapan berdasarkan nama
