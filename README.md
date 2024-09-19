@@ -28,3 +28,5 @@ Untuk menjalankan tugas `greetingTask`, gunakan perintah berikut di terminal:
 - Membuat tugas custom di Gradle yang menampilkan pesan ucapan berdasarkan nama
 - Menambahkan pustaka eksternal seperti Guava dan JUnit untuk digunakan dalam proyek
 - Menggunakan Git untuk menyimpan dan melacak perubahan kode, serta mengunggah proyek ke GitHub agar bisa diakses dan dibagikan
+
+![Alt Text](PR16.png)
